@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\ArrayFuncionario\\ArrayFuncionario.csproj",
+      "projectUniqueName": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\ArrayFuncionario\\ArrayFuncionario.csproj",
       "projectName": "ArrayFuncionario",
-      "projectPath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\ArrayFuncionario\\ArrayFuncionario.csproj",
+      "projectPath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\ArrayFuncionario\\ArrayFuncionario.csproj",
       "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-      "outputPath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\ArrayFuncionario\\obj\\",
+      "outputPath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\ArrayFuncionario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config"

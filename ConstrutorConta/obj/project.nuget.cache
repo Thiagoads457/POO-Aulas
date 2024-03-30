@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8RXhaNCEz5B5c8601P+nTjAxFTnoHUHbF00w85eBFQ5pvKwzTQpZEPISCCyFt/kJ83HeRj8ZkYX0RQzEYSGsKQ==",
+  "dgSpecHash": "6QsRNDCuJs9q0ZHT6Og9pP6sFDuihb9LmLAnOOWjmbdebEfZnLENLKm4g4qNVTGqgt4ZEQgALTbm01LM5/UrHA==",
   "success": true,
-  "projectFilePath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\ConstrutorConta\\ConstrutorConta.csproj",
+  "projectFilePath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\ConstrutorConta\\ConstrutorConta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",

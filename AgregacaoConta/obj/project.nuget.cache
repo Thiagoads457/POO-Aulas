@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WumUrIyM6m/GcP6DlOdsY+H+7VCZIX2LGTmrE7eKbMX0QY+mBZbGFGSLhJ3BtZz48/vTp82EPRz29yHhyd3IYA==",
+  "dgSpecHash": "rCFIvu7Hw6D3TdAVeBk+aDlUQRiwWZ+pnzmEwXdRqCv3nVluyoNopzGleMwyBe8X367LVbHz9BCcxO6bo1DZXw==",
   "success": true,
-  "projectFilePath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\AgregacaoConta\\Agregacao.csproj",
+  "projectFilePath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\AgregacaoConta\\Agregacao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",

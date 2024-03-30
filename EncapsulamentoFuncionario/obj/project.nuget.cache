@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ySkf7BBmuayQoWEyGNyu7KifVQry+gRhem+hv52rLAD5bV+t0iyqRfa3AaS7iBxO1uOSbx1Z3mmqcwdYDGwQ6g==",
+  "dgSpecHash": "kdNUSbM3UUVAcW0W+2uqXbpaHxJbmmS6G/3XwCgMAFq9zXMZwY9rVH4HwnR4VTcXfge0TWcGT+nBaRju1oyfdQ==",
   "success": true,
-  "projectFilePath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\EncapsulamentoFuncionario\\EncapsulamentoFuncionario.csproj",
+  "projectFilePath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\EncapsulamentoFuncionario\\EncapsulamentoFuncionario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",

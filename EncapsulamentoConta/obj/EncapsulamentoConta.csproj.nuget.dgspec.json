@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\EncapsulamentoConta\\EncapsulamentoConta.csproj": {}
+    "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\EncapsulamentoConta\\EncapsulamentoConta.csproj": {}
   },
   "projects": {
-    "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\EncapsulamentoConta\\EncapsulamentoConta.csproj": {
+    "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\EncapsulamentoConta\\EncapsulamentoConta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\EncapsulamentoConta\\EncapsulamentoConta.csproj",
+        "projectUniqueName": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\EncapsulamentoConta\\EncapsulamentoConta.csproj",
         "projectName": "EncapsulamentoConta",
-        "projectPath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\EncapsulamentoConta\\EncapsulamentoConta.csproj",
+        "projectPath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\EncapsulamentoConta\\EncapsulamentoConta.csproj",
         "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\EncapsulamentoConta\\obj\\",
+        "outputPath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\EncapsulamentoConta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config"

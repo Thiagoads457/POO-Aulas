@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nSoal+70D3yAyGnpV3Gt54eEdem2u8GtRf2U2MgCaCCNkg/qUY2ZqmB9SaTyET3I6bWMFMOntZnvgtld+0XguA==",
+  "dgSpecHash": "cs0LOyQgxuoXi+JPEjXZiKhmzEpXfgMc/L4zD23FRv4TcqpFxtkkdcIFVz6NzHTIO0JLPdXN6uahbHekZMuq5g==",
   "success": true,
-  "projectFilePath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\EncapsulamentoConta\\EncapsulamentoConta.csproj",
+  "projectFilePath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\EncapsulamentoConta\\EncapsulamentoConta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",

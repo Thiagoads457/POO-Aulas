@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\ConstrutorProdutos\\ConstrutorProdutos.csproj": {}
+    "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\ConstrutorProdutos\\ConstrutorProdutos.csproj": {}
   },
   "projects": {
-    "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\ConstrutorProdutos\\ConstrutorProdutos.csproj": {
+    "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\ConstrutorProdutos\\ConstrutorProdutos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\ConstrutorProdutos\\ConstrutorProdutos.csproj",
+        "projectUniqueName": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\ConstrutorProdutos\\ConstrutorProdutos.csproj",
         "projectName": "ConstrutorProdutos",
-        "projectPath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\ConstrutorProdutos\\ConstrutorProdutos.csproj",
+        "projectPath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\ConstrutorProdutos\\ConstrutorProdutos.csproj",
         "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\ConstrutorProdutos\\obj\\",
+        "outputPath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\ConstrutorProdutos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config"

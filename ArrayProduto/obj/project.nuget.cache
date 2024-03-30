@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nE2rCigILzMFqv2HN6C+z9rGDeLPsKIR3vYCMIfezkC+fUWqivnWXygzmmvOTDveZdDqiZJ6oH/OJJzGoa9edA==",
+  "dgSpecHash": "nmwVI9g+ePoVxnHxRigpCKnxBeh+0M1/6UihU7DJR3uJRtQvFp1WwrnGFmbO0mUgkxEYfwOX5zHNFM8H1gIE1g==",
   "success": true,
-  "projectFilePath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\ArrayProduto\\ArrayProduto.csproj",
+  "projectFilePath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\ArrayProduto\\ArrayProduto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",

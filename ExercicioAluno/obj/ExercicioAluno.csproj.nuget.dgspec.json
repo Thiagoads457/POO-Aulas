@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\ExercicioAluno\\ExercicioAluno.csproj": {}
+    "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\ExercicioAluno\\ExercicioAluno.csproj": {}
   },
   "projects": {
-    "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\ExercicioAluno\\ExercicioAluno.csproj": {
+    "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\ExercicioAluno\\ExercicioAluno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\ExercicioAluno\\ExercicioAluno.csproj",
+        "projectUniqueName": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\ExercicioAluno\\ExercicioAluno.csproj",
         "projectName": "ExercicioAluno",
-        "projectPath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\ExercicioAluno\\ExercicioAluno.csproj",
+        "projectPath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\ExercicioAluno\\ExercicioAluno.csproj",
         "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas\\POO\\ExercicioAluno\\obj\\",
+        "outputPath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\ExercicioAluno\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config"
