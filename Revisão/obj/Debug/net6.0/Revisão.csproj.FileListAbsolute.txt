@@ -1,0 +1,15 @@
+D:\PO Noite\Revisão\obj\Debug\net6.0\Revisão.csproj.AssemblyReference.cache
+D:\PO Noite\Revisão\obj\Debug\net6.0\Revisão.GeneratedMSBuildEditorConfig.editorconfig
+D:\PO Noite\Revisão\obj\Debug\net6.0\Revisão.AssemblyInfoInputs.cache
+D:\PO Noite\Revisão\obj\Debug\net6.0\Revisão.AssemblyInfo.cs
+D:\PO Noite\Revisão\obj\Debug\net6.0\Revisão.csproj.CoreCompileInputs.cache
+D:\PO Noite\Revisão\bin\Debug\net6.0\Revisão.exe
+D:\PO Noite\Revisão\bin\Debug\net6.0\Revisão.deps.json
+D:\PO Noite\Revisão\bin\Debug\net6.0\Revisão.runtimeconfig.json
+D:\PO Noite\Revisão\bin\Debug\net6.0\Revisão.dll
+D:\PO Noite\Revisão\bin\Debug\net6.0\Revisão.pdb
+D:\PO Noite\Revisão\obj\Debug\net6.0\Revisão.dll
+D:\PO Noite\Revisão\obj\Debug\net6.0\refint\Revisão.dll
+D:\PO Noite\Revisão\obj\Debug\net6.0\Revisão.pdb
+D:\PO Noite\Revisão\obj\Debug\net6.0\Revisão.genruntimeconfig.cache
+D:\PO Noite\Revisão\obj\Debug\net6.0\ref\Revisão.dll

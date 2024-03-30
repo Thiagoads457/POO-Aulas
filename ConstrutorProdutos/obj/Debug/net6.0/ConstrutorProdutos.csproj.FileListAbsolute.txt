@@ -1,0 +1,15 @@
+L:\POO Noite\ConstrutorProdutos\obj\Debug\net6.0\ConstrutorProdutos.csproj.AssemblyReference.cache
+L:\POO Noite\ConstrutorProdutos\obj\Debug\net6.0\ConstrutorProdutos.GeneratedMSBuildEditorConfig.editorconfig
+L:\POO Noite\ConstrutorProdutos\obj\Debug\net6.0\ConstrutorProdutos.AssemblyInfoInputs.cache
+L:\POO Noite\ConstrutorProdutos\obj\Debug\net6.0\ConstrutorProdutos.AssemblyInfo.cs
+L:\POO Noite\ConstrutorProdutos\obj\Debug\net6.0\ConstrutorProdutos.csproj.CoreCompileInputs.cache
+L:\POO Noite\ConstrutorProdutos\bin\Debug\net6.0\ConstrutorProdutos.exe
+L:\POO Noite\ConstrutorProdutos\bin\Debug\net6.0\ConstrutorProdutos.deps.json
+L:\POO Noite\ConstrutorProdutos\bin\Debug\net6.0\ConstrutorProdutos.runtimeconfig.json
+L:\POO Noite\ConstrutorProdutos\bin\Debug\net6.0\ConstrutorProdutos.dll
+L:\POO Noite\ConstrutorProdutos\bin\Debug\net6.0\ConstrutorProdutos.pdb
+L:\POO Noite\ConstrutorProdutos\obj\Debug\net6.0\ConstrutorProdutos.dll
+L:\POO Noite\ConstrutorProdutos\obj\Debug\net6.0\refint\ConstrutorProdutos.dll
+L:\POO Noite\ConstrutorProdutos\obj\Debug\net6.0\ConstrutorProdutos.pdb
+L:\POO Noite\ConstrutorProdutos\obj\Debug\net6.0\ConstrutorProdutos.genruntimeconfig.cache
+L:\POO Noite\ConstrutorProdutos\obj\Debug\net6.0\ref\ConstrutorProdutos.dll

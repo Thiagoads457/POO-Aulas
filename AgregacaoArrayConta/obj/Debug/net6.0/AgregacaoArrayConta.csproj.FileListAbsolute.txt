@@ -1,0 +1,15 @@
+D:\POO Noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.csproj.AssemblyReference.cache
+D:\POO Noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO Noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.AssemblyInfoInputs.cache
+D:\POO Noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.AssemblyInfo.cs
+D:\POO Noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.csproj.CoreCompileInputs.cache
+D:\POO Noite\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.exe
+D:\POO Noite\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.deps.json
+D:\POO Noite\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.runtimeconfig.json
+D:\POO Noite\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.dll
+D:\POO Noite\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.pdb
+D:\POO Noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.dll
+D:\POO Noite\AgregacaoArrayConta\obj\Debug\net6.0\refint\AgregacaoArrayConta.dll
+D:\POO Noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.pdb
+D:\POO Noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.genruntimeconfig.cache
+D:\POO Noite\AgregacaoArrayConta\obj\Debug\net6.0\ref\AgregacaoArrayConta.dll
