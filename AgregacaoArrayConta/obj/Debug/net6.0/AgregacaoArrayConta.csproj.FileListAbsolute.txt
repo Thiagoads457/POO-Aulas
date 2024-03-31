@@ -13,3 +13,18 @@ D:\POO Noite\AgregacaoArrayConta\obj\Debug\net6.0\refint\AgregacaoArrayConta.dll
 D:\POO Noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.pdb
 D:\POO Noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.genruntimeconfig.cache
 D:\POO Noite\AgregacaoArrayConta\obj\Debug\net6.0\ref\AgregacaoArrayConta.dll
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.exe
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.deps.json
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.runtimeconfig.json
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.dll
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.pdb
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.AssemblyInfoInputs.cache
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.AssemblyInfo.cs
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.csproj.CoreCompileInputs.cache
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.sourcelink.json
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.dll
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoArrayConta\obj\Debug\net6.0\refint\AgregacaoArrayConta.dll
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.pdb
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.genruntimeconfig.cache
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoArrayConta\obj\Debug\net6.0\ref\AgregacaoArrayConta.dll
