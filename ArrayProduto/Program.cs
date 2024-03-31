@@ -11,7 +11,7 @@ for(int i = 0; i <vetP.Length; i++)
     vetP[i].nome = Console.ReadLine();
     Console.Write("Digite o Preço do Produto: ");
     vetP[i].preco = Convert.ToInt32(Console.ReadLine());
-    Console.Write = ("Digite a quantidade: ");
+    Console.W = ("Digite a quantidade: ");
     vetP[i].quantidade = Convert.ToInt32(Console.ReadLine());
 
 }
