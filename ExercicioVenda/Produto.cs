@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace ExercicioVenda
-{
+{ 
     public class Produto
     {
         private static codigoInicial = 500;
