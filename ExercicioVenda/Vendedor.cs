@@ -8,9 +8,16 @@ namespace ExercicioVenda
     public class Vendedor
     {
         public double Comissao { get; set; }//atributo
-        public void CalcularComissao(double precoProduto)//metodo
+        public string Nome { get; set; }
+
+        public Vendedor(string nome)
         {
-            Comissao = 0.02 * precoProduto;
+            Nome = nome;
+        }
+
+        public void CalcularComissao(double preco)//metodo
+        {
+            Comissao = 0.02 * preco;
         }
 
         public void MostrarAtributosVedendor()//metodo

@@ -12,12 +12,7 @@ namespace ExercicioVenda
         public int Codigo { get; set; }
         public string Nome { get; set; }
         public double Preco { get; set; }
-        public Produto (int codigo, string nome, double preco) //construtor para colocar os parametros
-        {
-            Codigo = codigo;
-            Nome = nome;
-            Preco = preco;
-        }
+        
         public Produto() //construtor
         {
             Codigo = codigoInicial++;

@@ -14,7 +14,11 @@ namespace ExercicioVenda
             Verba = verba
         }
        
-        public void MostrarAtributosComprador("Verba do Comprador: " + Verba)
+        public void MostrarAtributosComprador()
+        {
+            Console.WriteLine("Verba do Comprador: " + Verba);
+        }
+        
     }
 
 
