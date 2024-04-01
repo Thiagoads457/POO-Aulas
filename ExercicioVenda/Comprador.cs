@@ -8,6 +8,11 @@ namespace ExercicioVenda
     public class Comprador
     {
         public double Verba { get; set; }
+
+        public Comprador(double verba)
+        {
+            Verba = verba
+        }
        
         public void MostrarAtributosComprador("Verba do Comprador: " + Verba)
     }
