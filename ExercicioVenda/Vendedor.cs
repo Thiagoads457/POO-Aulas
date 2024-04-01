@@ -10,7 +10,7 @@ namespace ExercicioVenda
         public double Comissao { get; set; }//atributo
         public void CalcularComissao(double precoProduto)//metodo
         {
-            Comissao = 0.02 * precoProduto
+            Comissao = 0.02 * precoProduto;
         }
 
         public void MostrarAtributosVedendor()//metodo
