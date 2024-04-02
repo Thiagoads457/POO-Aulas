@@ -11,5 +11,5 @@ nf.AdicionarItens(item2);
 
 foreach (ItemNotaFiscal itens in nf.VetItens)
     Console.WriteLine("Quantidade: " + itens.Quantidade);
-
+nf = null;
 
