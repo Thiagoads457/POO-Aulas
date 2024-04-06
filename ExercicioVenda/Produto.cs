@@ -17,6 +17,8 @@ namespace ExercicioVenda
         {
             Codigo = codigoInicial++;
         }
+
+        
         public void MostrarAtributosProdutos()
         {
             Console.WriteLine("Código do Produto " + Codigo);

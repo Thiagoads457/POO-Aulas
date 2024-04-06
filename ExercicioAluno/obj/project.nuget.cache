@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "FL1WE7yUt5QbT9aA9bT42zP9NGFrwm65iFBds8LMZG2hL5cL41rBvdG6JVAUMTPL2n7gYNPFXtA+kLBjn/gfhA==",
+  "dgSpecHash": "2AW7UbK/kpKyJDXNtIjtC0qar+oyT4ua7f/8eIq4hYz0RhVx5hpLYljIRKkLCzo0lY1mZVI+DAOghpEqhD25TQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Documents\\GitHub\\POO-Aulas\\ExercicioAluno\\ExercicioAluno.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\ExercicioAluno\\ExercicioAluno.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }

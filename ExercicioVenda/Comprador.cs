@@ -9,7 +9,7 @@ namespace ExercicioVenda
     {
         public double Verba { get; set; }
 
-        public Comprador(double verba)
+        public Comprador(string nome, double verba)
         {
             Verba = verba
         }
