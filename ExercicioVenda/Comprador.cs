@@ -11,7 +11,7 @@ namespace ExercicioVenda
 
         public Comprador(string nome, double verba)
         {
-            Verba = verba
+            Verba = verba;
         }
        
         public void MostrarAtributosComprador()
