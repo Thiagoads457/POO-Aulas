@@ -12,12 +12,9 @@ namespace ExercicioVenda
         public double Verba
         {
             get { return verba; }
-            set
-            {
-                if (value >= 0)
-                    verba = value;
-                else
-                    Console.WriteLine("A verba do comprador não pode ser negativa.");
+            set{
+                verba = value;
+                
             }
         }
 

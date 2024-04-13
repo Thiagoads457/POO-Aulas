@@ -9,23 +9,29 @@ Vendedor vendedor = new Vendedor();
 
 Venda venda1 = new Venda(comprador, vendedor);
 
-Console.WriteLine("\n=-=-=-=-= Venda 1 =-=-=-=-=");
+Console.WriteLine("\n1ª Venda");
 venda1.AdicionarProduto(produto1);
-venda1.AdicionarProduto(produto2);
 venda1.MostrarAtributos();
 venda1.FinalizarVenda();
-
 comprador.MostrarAtributo();
 
 Venda venda2 = new Venda(comprador, vendedor);
 
-Console.WriteLine("\n=-=-=-=-= Venda 2 =-=-=-=-=");
+Console.WriteLine("\n2ª Venda");
 venda2.AdicionarProduto(produto1);
 venda2.AdicionarProduto(produto2);
-venda2.AdicionarProduto(produto3);
 venda2.MostrarAtributos();
 venda2.FinalizarVenda();
+comprador.MostrarAtributo();
 
+Venda venda3 = new Venda(comprador, vendedor);
+
+Console.WriteLine("\n3ª Venda");
+venda3.AdicionarProduto(produto1);
+venda3.AdicionarProduto(produto2);
+venda3.AdicionarProduto(produto3);
+venda3.MostrarAtributos();
+venda3.FinalizarVenda();
 comprador.MostrarAtributo();
 
 
