@@ -7,18 +7,29 @@ namespace ExercicioVenda
 {
     public class Comprador
     {
-        public double Verba { get; set; }
+        private double verba;
 
-        public Comprador(string nome, double verba)
+        public double Verba
         {
-            Verba = verba;
+            get { return verba; }
+            set
+            {
+                if (value >= 0)
+                    verba = value;
+                else
+                    Console.WriteLine("A verba do comprador não pode ser negativa.");
+            }
         }
-       
-        public void MostrarAtributosComprador()
+
+        public Comprador(double verba)
         {
-            Console.WriteLine("Verba do Comprador: " + Verba);
+            this.verba = verba;
         }
-        
+
+        public void MostrarAtributo()
+        {
+            Console.WriteLine($"Verba do comprador: R${verba:c}");
+        }
     }
 
 

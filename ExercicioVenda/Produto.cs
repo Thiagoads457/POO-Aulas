@@ -7,25 +7,28 @@ namespace ExercicioVenda
 { 
     public class Produto
     {
-        private static int codigoInicial = 500;
-        //atributos
-        public int Codigo { get; set; }
+        private static int proximoCodigo = 500;
+        public int Codigo { get; }
         public string Nome { get; set; }
         public double Preco { get; set; }
-        
-        public Produto() //construtor
+
+        public Produto(string nome, double preco)
         {
-            Codigo = codigoInicial++;
+            Codigo = proximoCodigo++;
+            Nome = nome;
+
+            if (preco > 0)
+                Preco = preco;
+            else
+                Console.WriteLine("O preço deve ser maior que zero.");
         }
 
-        
-        public void MostrarAtributosProdutos()
+        public void MostrarAtributos()
         {
-            Console.WriteLine("Código do Produto " + Codigo);
-            Console.WriteLine("Nome do Produto " + Nome);
-            Console.WriteLine("Preço do Produto " + Preco);
+            Console.WriteLine($"Código: {Codigo}, Nome: {Nome}, Preço: R${Preco:c}");
         }
     }
+      
 
 
 }

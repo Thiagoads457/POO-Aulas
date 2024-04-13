@@ -7,22 +7,17 @@ namespace ExercicioVenda
 {
     public class Vendedor
     {
-        public double Comissao { get; set; }//atributo
-        public string Nome { get; set; }
+        private const double comissao = 2;
+        private double comissaoRecebida;
 
-        public Vendedor(string nome)
+        public void MostrarAtributo()
         {
-            Nome = nome;
+            Console.WriteLine($"Comissão do vendedor: R${comissaoRecebida:c}");
         }
 
-        public void CalcularComissao(double preco)//metodo
+        public void CalcularComissao(double precoTotal)
         {
-            Comissao = 0.02 * preco;
-        }
-
-        public void MostrarAtributosVedendor()//metodo
-        {
-            Console.WriteLine("Comissão do Vendedor " + Comissao);
+            comissaoRecebida = precoTotal * (comissao / 100);
         }
     }
 }
