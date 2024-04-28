@@ -5,6 +5,8 @@ Conta c1 = new Conta();
 c1.Numero = 1;
 c1.Saldo = 100;
 c1.VetTitulares = new List<Cliente>();
+
+
 // inserir 3 titulares
 for (int i = 0; i < 3; i++)
 {
@@ -14,10 +16,15 @@ for (int i = 0; i < 3; i++)
     Console.Write("Informe o RG: ");
     cli.Rg = Console.ReadLine();
     c1.VetTitulares.Add(cli);
+    
 
 }
 c1.Mostrar();
 foreach(Cliente c in c1.VetTitulares)
+c.Mostrar();
+
+c2.Mostrar();
+foreach(Cliente c in c2.VetTitulares)
 c.Mostrar();
 
 

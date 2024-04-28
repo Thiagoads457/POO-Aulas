@@ -1,0 +1,28 @@
+C:\Users\luis\Desktop\POO\AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.exe
+C:\Users\luis\Desktop\POO\AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.deps.json
+C:\Users\luis\Desktop\POO\AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.runtimeconfig.json
+C:\Users\luis\Desktop\POO\AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.dll
+C:\Users\luis\Desktop\POO\AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.pdb
+C:\Users\luis\Desktop\POO\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis\Desktop\POO\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.AssemblyInfoInputs.cache
+C:\Users\luis\Desktop\POO\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.AssemblyInfo.cs
+C:\Users\luis\Desktop\POO\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.csproj.CoreCompileInputs.cache
+C:\Users\luis\Desktop\POO\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.dll
+C:\Users\luis\Desktop\POO\AgregacaoVenda\obj\Debug\net7.0\refint\AgregacaoVenda.dll
+C:\Users\luis\Desktop\POO\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.pdb
+C:\Users\luis\Desktop\POO\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.genruntimeconfig.cache
+C:\Users\luis\Desktop\POO\AgregacaoVenda\obj\Debug\net7.0\ref\AgregacaoVenda.dll
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.exe
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.deps.json
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.runtimeconfig.json
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.dll
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.pdb
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.AssemblyInfoInputs.cache
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.AssemblyInfo.cs
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.csproj.CoreCompileInputs.cache
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.dll
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net7.0\refint\AgregacaoVenda.dll
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.pdb
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.genruntimeconfig.cache
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net7.0\ref\AgregacaoVenda.dll

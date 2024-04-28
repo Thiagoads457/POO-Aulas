@@ -1,0 +1,30 @@
+D:\POO\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.AssemblyInfoInputs.cache
+D:\POO\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.AssemblyInfo.cs
+D:\POO\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.csproj.CoreCompileInputs.cache
+D:\POO\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.sourcelink.json
+D:\POO\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.exe
+D:\POO\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.deps.json
+D:\POO\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.runtimeconfig.json
+D:\POO\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.dll
+D:\POO\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.pdb
+D:\POO\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.dll
+D:\POO\ComposicaoBanco\obj\Debug\net8.0\refint\ComposicaoBanco.dll
+D:\POO\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.pdb
+D:\POO\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.genruntimeconfig.cache
+D:\POO\ComposicaoBanco\obj\Debug\net8.0\ref\ComposicaoBanco.dll
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.exe
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.deps.json
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.runtimeconfig.json
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.dll
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.pdb
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.AssemblyInfoInputs.cache
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.AssemblyInfo.cs
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.csproj.CoreCompileInputs.cache
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.sourcelink.json
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.dll
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\ComposicaoBanco\obj\Debug\net8.0\refint\ComposicaoBanco.dll
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.pdb
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.genruntimeconfig.cache
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\ComposicaoBanco\obj\Debug\net8.0\ref\ComposicaoBanco.dll

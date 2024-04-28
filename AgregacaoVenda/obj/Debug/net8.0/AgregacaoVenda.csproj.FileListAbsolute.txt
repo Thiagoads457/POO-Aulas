@@ -1,0 +1,29 @@
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.exe
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.deps.json
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.runtimeconfig.json
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.dll
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.pdb
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.AssemblyInfoInputs.cache
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.AssemblyInfo.cs
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.csproj.CoreCompileInputs.cache
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.dll
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net8.0\refint\AgregacaoVenda.dll
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.pdb
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.genruntimeconfig.cache
+E:\Fatec ADS\Felipe\Felipe\AgregacaoVenda\obj\Debug\net8.0\ref\AgregacaoVenda.dll
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.exe
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.deps.json
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.runtimeconfig.json
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.dll
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.pdb
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.AssemblyInfoInputs.cache
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.AssemblyInfo.cs
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.csproj.CoreCompileInputs.cache
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.sourcelink.json
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.dll
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoVenda\obj\Debug\net8.0\refint\AgregacaoVenda.dll
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.pdb
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.genruntimeconfig.cache
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\AgregacaoVenda\obj\Debug\net8.0\ref\AgregacaoVenda.dll
