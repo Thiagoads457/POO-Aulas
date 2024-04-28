@@ -1,0 +1,5 @@
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.AssemblyInfoInputs.cache
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.AssemblyInfo.cs
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.csproj.CoreCompileInputs.cache
+E:\Fatec ADS\4º Modulo\Programação Orientada a Objetos\POO Aulas - Github\POO-Aulas\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.sourcelink.json

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "E7VtqDBgZW+P9s/HeoVdzjg989RRjQWaY3Z3P/GaLGPYHXfV19JbuwA5TwGkHFrnSDfMxnm9CM1qHCu7/R4kwQ==",
+  "dgSpecHash": "DzNpT+rDnQUVY0frlKP7rqmlFFNszEgsV7c6tQG+yzzA06wr1BkdidKPMyzAM42B1ZJqfPOjE5isdbYJMIcRmg==",
   "success": true,
-  "projectFilePath": "D:\\POO noite\\HerancaFuncionario\\HerancaFuncionario.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\HerancaFuncionario\\HerancaFuncionario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }
