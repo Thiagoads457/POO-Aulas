@@ -20,7 +20,7 @@ namespace HerancaFuncionario
         
         }
 
-        public Horista(int codigo, string nome, double salario, int qntHorasSemana) : base(int codigo, string nome, double salario)
+        public Mensalista(int codigo, string nome, double salario, int qntHorasSemana) : base(codigo, nome, salario)
         {
             QntHorasSemana = qntHorasSemana;
         }
