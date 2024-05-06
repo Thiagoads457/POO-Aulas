@@ -23,8 +23,9 @@ namespace HerancaFuncionario
 
         public void Mostrar()
         {
-            Console.WriteLine("Codigo: " + codigo + "\tNome: " + "\tSalário: " + salario);
+            Console.WriteLine("Codigo: " + codigo + "\tNome: " + nome + "\tSalário: " + salario);
         }
+        
 
         public int Codigo{
             get{return codigo;}

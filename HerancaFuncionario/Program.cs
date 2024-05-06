@@ -7,5 +7,5 @@ Horista h = new Horista(002,"João",1500,15);
 h.Mostrar();
 
 
-Mensalista m = new Mensalista(002,"Diana",2000,20);
+Mensalista m = new Mensalista(003,"Diana",2000,20);
 m.Mostrar();

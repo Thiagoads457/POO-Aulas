@@ -16,7 +16,7 @@ namespace HerancaFuncionario
         public void Mostrar()
         {
         base.Mostrar();
-        Console.WriteLine("Quantidade de horas Semanais: " + qntHorasSemana);
+        Console.WriteLine("Quantidade de horas Semanais: " + QntHorasSemana);
         
         }
 
