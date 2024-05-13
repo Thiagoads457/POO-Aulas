@@ -14,11 +14,11 @@ namespace AbstratoCliente//extends
         public override void Mostrar()//polimorfismo 
         {
             
-            Console.WriteLine("Código: " + codigo + "\tNome: " + nome + "\tEndereço: "+ endereco + "RG: " + Rg);
+            Console.WriteLine("Código: " + codigo + "\tNome: " + nome + "\tEndereço: "+ endereco + "\tRG: " + Rg);
             
         }
 
-        public ClienteFisico(int codigo, string nome, string endereco, int rg) : base(codigo, nome, endereco)
+        public ClienteFisico(int codigo, string nome, string endereco, int idade, int rg) : base(codigo, nome, endereco, idade)
         {
             Rg = rg;
         }

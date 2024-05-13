@@ -11,13 +11,13 @@ namespace AbstratoCliente
         public ClienteJuridico(): base()
         {            
         }
-        public ClienteJuridico(int codigo, string nome, string endereco, int cnpj) : base(codigo, nome, endereco)
+        public ClienteJuridico(int codigo, string nome, string endereco, int idade, int cnpj) : base(codigo, nome, endereco, idade)
         {
             Cnpj = cnpj;
         }
         public override void Mostrar()
         {
-            Console.WriteLine("Código: " + codigo + "\tNome: " + nome + "\tEndereço: "+ endereco + "Cnpj: " + Cnpj);
+            Console.WriteLine("Código: " + codigo + "\tNome: " + nome + "\tEndereço: "+ endereco + "\tCnpj: " + Cnpj);
             
         }
         public int Cnpj{

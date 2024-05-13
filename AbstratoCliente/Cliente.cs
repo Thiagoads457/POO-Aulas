@@ -25,11 +25,12 @@ namespace AbstratoCliente
         public Cliente()
         {            
         }
-        public Cliente(int codigo, string nome, string endereco)
+        public Cliente(int codigo, string nome, string endereco, int idade)
         {
             Codigo = codigo;
             Nome = nome;
             Endereco = endereco;
+            Idade = idade;
         }
         public abstract void Mostrar();
         
