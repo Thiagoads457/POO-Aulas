@@ -15,10 +15,10 @@ namespace AbstratoCliente
         {
             Cnpj = cnpj;
         }
-        public void Mostrar()
+        public override void Mostrar()
         {
-            base.Mostrar();
-            Console.WriteLine("Cnpj: " + Cnpj);
+            Console.WriteLine("Código: " + codigo + "\tNome: " + nome + "\tEndereço: "+ endereco + "Cnpj: " + Cnpj);
+            
         }
         public int Cnpj{
             get { return cnpj;}
