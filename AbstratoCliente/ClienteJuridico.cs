@@ -24,5 +24,12 @@ namespace AbstratoCliente
             get { return cnpj;}
             set { cnpj = value;}
         }
+
+        public override void AvaliaIdade()
+        {
+            if (Idade > 40){
+                Console.WriteLine("Cliente juridico");
+            }
+        }
     }
 }

@@ -11,7 +11,7 @@ namespace AbstratoCliente//extends
         public ClienteFisico(): base()
         {            
         }
-        public override void Mostrar()
+        public override void Mostrar()//polimorfismo 
         {
             
             Console.WriteLine("Código: " + codigo + "\tNome: " + nome + "\tEndereço: "+ endereco + "RG: " + Rg);
@@ -25,6 +25,13 @@ namespace AbstratoCliente//extends
         public int Rg{
             get { return rg;}
             set { rg = value;}
+        }
+
+        public override void AvaliaIdade()
+        {
+            if (idade >+18 && Idade <= 40){
+                Console.WriteLine("Cliente Fisico");
+            }
         }
     }
 }

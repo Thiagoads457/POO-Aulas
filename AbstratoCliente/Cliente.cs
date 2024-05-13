@@ -10,6 +10,18 @@ namespace AbstratoCliente
         protected int codigo;
         protected string nome;
         protected string endereco;
+        protected int idade;
+        public int Idade
+        {
+            get { return idade; }
+            set { idade = value; }
+
+        }
+
+        public abstract void AvaliaIdade();
+        
+    
+        
         public Cliente()
         {            
         }
