@@ -11,10 +11,11 @@ namespace AbstratoCliente//extends
         public ClienteFisico(): base()
         {            
         }
-        public void Mostrar()
+        public override void Mostrar()
         {
-            base.Mostrar();
-            Console.WriteLine("Rg: " + Rg);
+            
+            Console.WriteLine("Código: " + codigo + "\tNome: " + nome + "\tEndereço: "+ endereco + "RG: " + Rg);
+            
         }
 
         public ClienteFisico(int codigo, string nome, string endereco, int rg) : base(codigo, nome, endereco)

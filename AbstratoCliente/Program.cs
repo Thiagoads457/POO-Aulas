@@ -1,4 +1,4 @@
-﻿using AbstratoCliente;
+﻿using AbstratoCliente; // reiplementação total do metodo da superclasse
 
 //Cliente c = new Cliente();//não instanciará
 

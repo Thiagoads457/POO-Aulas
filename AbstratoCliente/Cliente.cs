@@ -19,11 +19,8 @@ namespace AbstratoCliente
             Nome = nome;
             Endereco = endereco;
         }
-        public void Mostrar()
-        {
-            Console.WriteLine("Código: " + codigo +
-            "\tNome: " + nome + "\tEndereço: "+ endereco);
-        }
+        public abstract void Mostrar();
+        
         public int Codigo{
             get { return codigo;}
             set { codigo = value;}
