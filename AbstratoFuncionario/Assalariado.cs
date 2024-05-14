@@ -5,8 +5,13 @@ using System.Threading.Tasks;
 
 namespace AbstratoFuncionario
 {
-    public class Assalariado
+    public class Assalariado : Funcionario
     {
-        
+         public Funcionario(int codigo, string nome, double salario) : base(codigo, nome, salario)
+        {           
+        }
+        public override double CalcularSalario(int diasUteis );
     }
+
+        
 }
