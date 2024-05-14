@@ -21,5 +21,7 @@ namespace AbstratoFuncionario
             Console.WriteLine("Código: " + Codigo + "\tNome: " + Nome + "\tSalário: " + Salario);
         }
         public abstract double CalcularSalario();
+
+        public override double CalcularSalario(int diasUteis );//assinatura de metodo sabemos o que o metodo faz pelo nome dele, sabemos se precisa de valor externo para atender o desenvolvimento da logica (parametro(s)) e se ocorrerá saida de valor. (retur)
     }
 }

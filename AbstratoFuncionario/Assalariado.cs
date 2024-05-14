@@ -10,7 +10,13 @@ namespace AbstratoFuncionario
          public Funcionario(int codigo, string nome, double salario) : base(codigo, nome, salario)
         {           
         }
-        public override double CalcularSalario(int diasUteis );
+        
+        public override double CalcularSalario(int diasUteis )
+        {
+            return Salario / 30 * diasUteis
+        }
+
+
     }
 
         
