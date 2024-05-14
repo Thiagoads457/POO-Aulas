@@ -18,10 +18,10 @@ namespace AbstratoFuncionario
         }
         public virtual void Mostrar()
         {
-            Console.WriteLine("Código: " + Codigo + "\tNome: " + Nome + "\tSalário: " + Salario);
+            Console.WriteLine("Código: " + Codigo +
+            "\tNome: " + Nome + "\tSalário: " + Salario);
         }
-        public abstract double CalcularSalario();
-
-        public override double CalcularSalario(int diasUteis );//assinatura de metodo sabemos o que o metodo faz pelo nome dele, sabemos se precisa de valor externo para atender o desenvolvimento da logica (parametro(s)) e se ocorrerá saida de valor. (retur)
+        public abstract double CalcularSalario(int diasUteis);
+        //assinatura de método sabemos o que o método faz pelo nome dele, sabemos se precisa de valor externo para a atender o desenvolvimento da lógica (parâmetro) e se ocorrerá saída de valor (return)
     }
 }

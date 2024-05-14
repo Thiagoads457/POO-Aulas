@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\POO noite\\AbstratoFuncionario\\AbstratoFuncionario.csproj": {}
+    "D:\\POO noite\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj": {}
   },
   "projects": {
-    "D:\\POO noite\\AbstratoFuncionario\\AbstratoFuncionario.csproj": {
+    "D:\\POO noite\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\POO noite\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
-        "projectName": "AbstratoFuncionario",
-        "projectPath": "D:\\POO noite\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
+        "projectUniqueName": "D:\\POO noite\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj",
+        "projectName": "PolimorfismoFuncionario",
+        "projectPath": "D:\\POO noite\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "D:\\POO noite\\AbstratoFuncionario\\obj\\",
+        "outputPath": "D:\\POO noite\\PolimorfismoFuncionario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
