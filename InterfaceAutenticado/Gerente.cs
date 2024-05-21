@@ -14,6 +14,7 @@ namespace InterfaceAutenticado
                 Console.WriteLine("Gerente autenticado");
                 return true;
             }
+            Console.WriteLine("Gerente não autenticado! ");
             return false;
         }    
     }
