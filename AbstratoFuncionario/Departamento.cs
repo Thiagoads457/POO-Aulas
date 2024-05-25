@@ -16,33 +16,41 @@ namespace AbstratoFuncionario
             Codigo = codigo;
             Nome = nome;
         }
+
         public void Admitir(Funcionario f)
         {
             VetF.Add(f);
         }
+
         public void ListarFuncionarios()
         {
-            Console.WriteLine("\nListagem do departamento: " + Nome);
+            Console.WriteLine("\n*** Listagem do departamento: " + Nome + " ***");
+
             foreach (Funcionario f in VetF)
                 f.Mostrar();
         }
+
         public void Demitir(int codigo)
         {
-            for(int i = 0; i < VetF.Count; i++)
+            for (int i = 0; i < VetF.Count; i++)
             {
                 Funcionario f = VetF.ElementAt<Funcionario>(i);
+
                 if (f.Codigo == codigo)
                     VetF.Remove(f);
             }
         }
+        
         public double CalcularFolha(int diasUteis)
         {
             double folha = 0;
-            for(int i = 0; i < VetF.Count; i++)
+
+            for (int i = 0; i < VetF.Count; i++)
             {
                 Funcionario f = VetF.ElementAt<Funcionario>(i);
                 folha += f.CalcularSalario(diasUteis);
             }
+
             return folha;
         }
     }

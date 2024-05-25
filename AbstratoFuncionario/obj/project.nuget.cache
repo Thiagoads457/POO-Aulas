@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eYoD0YnrQO7cowFsrspDzDLtPrdLlS/kHsOzI0p47/HCiDiIoCqcQrYfoV/VXdnvZXDQJyZLrcvzSK4sV/Tj4g==",
+  "dgSpecHash": "iD28M8jep2E/quVYC8+mw7p9DHCL2DWKU2gVooEuo1UocKLDPNMNdk7guA9qHCBOGFvZqvjYGjIWvCaoVUnUoQ==",
   "success": true,
-  "projectFilePath": "D:\\POO noite\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Fatec ADS\\4º Modulo\\Programação Orientada a Objetos\\POO Aulas - Github\\POO-Aulas\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }
